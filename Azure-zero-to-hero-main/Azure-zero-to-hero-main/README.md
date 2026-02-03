@@ -1,6 +1,4 @@
-# Azure Zero to Hero Course
 
-![Add a heading(13)](https://github.com/iam-veeramalla/Azure-zero-to-hero/assets/43399466/c64cb363-661d-4411-8a30-9cb55255ba30)
 
 ## If you like the content, Don't forget to give this repository a :star:
 
@@ -102,8 +100,7 @@
 - A Postgres database backed by a Docker volume
 - A Node.js web app which shows the results of the voting in real time
 
-<img width="813" alt="Screenshot 2024-02-09 at 5 20 01 PM" src="https://github.com/iam-veeramalla/Azure-zero-to-hero/assets/43399466/ad4dbb37-82f4-4663-9bcb-e919f0bb101b">
-
+<i
 ## Day 15: Azure DevOps - CD Setup - (PROJECT 3)
 - Implementing Continuous Deployment (CD)
 - Using AKS for CD
